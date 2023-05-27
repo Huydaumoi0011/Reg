@@ -7,7 +7,7 @@ global zzz,is_start
 is_start=0
 zzz=[]
 
-host = "nrobeer.online"
+host = "http:4.225.217.206"
 port = 80
 
 headers = """\
